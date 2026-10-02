@@ -1,7 +1,5 @@
 # 視訊壓縮課程作業
 
-本 repository 整理視訊壓縮課程中的程式作業與期末專題，內容涵蓋影像色彩表示、DCT、動態估測、熵編碼與學習式影像壓縮。
-
 ## 作業總覽
 
 | 作業 | 主題 | 主要內容 |
@@ -20,9 +18,4 @@
 - Full Search Block Matching、Three-Step Search
 - PSNR、SSIM、LPIPS、Rate–Distortion analysis
 
-## 公開版本說明
-
-本 repository 保留程式碼、範例輸入輸出與實驗統計；未放入含姓名或學號的報告 PDF、影片、模型權重、虛擬環境、壓縮 bitstream 與大型產出檔。
-
-期末專題中的 high-fidelity-generative-compression 保留原專案的 LICENSE 與 README；其中部分程式碼來自既有開源專案，使用時請遵守原專案授權與引用要求。
 
